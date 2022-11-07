@@ -42,6 +42,9 @@ import 'oskari-loader!oskari-frontend/packages/mapping/dimension-change/bundle.j
 
 import 'oskari-loader!../../packages/sample/bundle/sample-info/bundle.js';
 
+// SuitAbility
+import 'oskari-loader!../../packages/upt/suitability/bundle.js';
+
 import 'oskari-lazy-loader?personaldata!oskari-frontend/packages/framework/bundle/personaldata/bundle.js';
 import 'oskari-lazy-loader?mydata!oskari-frontend/bundles/framework/mydata/bundle.js';
 import 'oskari-lazy-loader?printout!oskari-frontend/packages/framework/bundle/printout/bundle.js';
